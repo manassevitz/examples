@@ -5,6 +5,7 @@
 
 2. to add synthetic to prod38, copi this lines at the end of stack.json
 
+  ````
   {
     "environment_name": "v7-AWS-Prod38",
     "tcp_version": "7.1.34.3",
@@ -18,3 +19,4 @@
     "admin_port": 80,
     "account_id": 766455805380
   }
+````
